@@ -11,3 +11,4 @@ Principales características:
 - Persistencia (atributos de sesión, atributos persistentes) con DynamoDB.
 - Delegación en Alexa para recolección de Slots y para confirmaciones de intents.
 - Llamadas a servicios externos.
+- Cards para la App Alexa.
